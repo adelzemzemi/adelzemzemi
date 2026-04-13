@@ -1,16 +1,13 @@
-## Hi there 👋
+# Adel Zemzemi
 
-<!--
-**adelzemzemi/adelzemzemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder @ Vimatech — Building SaaS products
 
-Here are some ideas to get you started:
+We build scalable SaaS platforms and backend systems for digital businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+- Build and operate SaaS products
+- Backend systems & APIs
+- Software architecture
+
+## 🌐 Links
+- Website: https://vimatech.io
