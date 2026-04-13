@@ -2,7 +2,7 @@
 
 Founder @ Vimatech — Building SaaS products
 
-We build scalable SaaS platforms and backend systems for digital businesses.
+I build scalable SaaS platforms and backend systems for digital businesses.
 
 ## 🚀 What I do
 - Build and operate SaaS products
