@@ -1,6 +1,6 @@
 # Adel Zemzemi
 
-Senior backend engineer with 10+ years building production SaaS systems, APIs, and scalable backend infrastructure.
+Senior backend engineer building modern SaaS infrastructure, APIs, workflow systems, and scalable backend architecture.
 
 Paris, France · Working with clients across the UK, Europe and the US.
 
@@ -13,13 +13,15 @@ Long-term engagements with startups and scale-ups — backend architecture, API 
 Building infrastructure packages for Laravel and TypeScript ecosystems.
 - [Laravel Membership](https://github.com/vimatech-io/laravel-membership) — Polymorphic memberships for Laravel
 - Laravel Bookable — Minimal booking infrastructure for Laravel *(coming soon)*
-- [Cryptobox](https://github.com/adelzemzemi/CryptoBox) — Zero-dependency encryption library for JS/TS · [npm](https://www.npmjs.com/package/@azemzemi/cryptobox)
+- Laravel Secure Fields — Modern encrypted Eloquent fields for Laravel *(coming soon)*
+- [CryptoBox](https://github.com/adelzemzemi/CryptoBox) — Zero-dependency encryption library for JS/TS · [npm](https://www.npmjs.com/package/@azemzemi/cryptobox)
 
-**Products**
-- [MakeResume](https://makeresume.io) — SaaS resume builder · Live · Pre-launch
+### Products
+- [MakeResume](https://makeresume.io) — SaaS resume builder · Live
+- Rendevo — Intelligent scheduling platform *(in development)*
 
 ## Stack
-`PHP` `Laravel` `Vue.js` `Nuxt` `TypeScript` `REST APIs` `PostgreSQL` `Redis` `Docker` `n8n` `CI/CD`
+`PHP` `Laravel` `FrankenPHP` `Vue.js` `Nuxt` `TypeScript` `PostgreSQL` `Redis` `Docker` `AWS` `Cloudflare` `n8n` `REST APIs` `CI/CD`
 
 ## Links
 - Website: [adelzemzemi.dev](https://adelzemzemi.dev)
