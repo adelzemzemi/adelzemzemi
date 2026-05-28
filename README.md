@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Adel Zemzemi Banner" />
+</p>
+
 # Adel Zemzemi
 
 Senior backend engineer building modern SaaS infrastructure, APIs, workflow systems, and scalable backend architecture.
