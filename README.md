@@ -17,7 +17,7 @@ Long-term engagements with startups and scale-ups — backend architecture, API 
 Building infrastructure packages for Laravel and TypeScript ecosystems.
 - [Laravel Membership](https://github.com/vimatech-io/laravel-membership) — Polymorphic memberships for Laravel
 - Laravel Bookable — Minimal booking infrastructure for Laravel *(coming soon)*
-- Laravel Secure Fields — Modern encrypted Eloquent fields for Laravel *(coming soon)*
+- [Laravel Secure Fields](https://github.com/vimatech-io/laravel-secure-fields) — Modern encrypted Eloquent fields for Laravel
 - [CryptoBox](https://github.com/adelzemzemi/CryptoBox) — Zero-dependency encryption library for JS/TS · [npm](https://www.npmjs.com/package/@azemzemi/cryptobox)
 
 ### Products
