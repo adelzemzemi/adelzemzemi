@@ -4,7 +4,7 @@
 
 # Adel Zemzemi
 
-Senior backend engineer building modern SaaS infrastructure, APIs, workflow systems, and scalable backend architecture. Founder of [Vimatech LTD](https://vimatech.io).
+Senior backend engineer: SaaS infrastructure, APIs, workflow systems, scalable architecture. Founder of [Vimatech Ltd](https://vimatech.io), where I build and run my own products.
 
 Paris, France · Available for engagements across the UK, Europe and the US.
 
