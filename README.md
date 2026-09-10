@@ -6,7 +6,7 @@
 
 Senior backend engineer building modern SaaS infrastructure, APIs, workflow systems, and scalable backend architecture. Founder of [Vimatech LTD](https://vimatech.io).
 
-Paris, France · Working with clients across the UK, Europe and the US.
+Paris, France · Available for engagements across the UK, Europe and the US.
 
 ## What I work on
 
