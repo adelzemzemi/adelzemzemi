@@ -6,20 +6,20 @@
 
 Senior backend engineer: SaaS infrastructure, APIs, workflow systems, scalable architecture. Founder of [Vimatech Ltd](https://vimatech.io), where I build and run my own products.
 
-Paris, France · Available for engagements across the UK, Europe and the US.
+Paris, France · Remote, long-term engagements.
 
 ## What I work on
 
 **Client work**
-Long-term engagements with startups and scale-ups · backend architecture, API design, SaaS platforms, and technical ownership of complex systems.
+Long-term engagements, embedded in product and platform teams · backend architecture, API design, SaaS platforms, and technical ownership of complex systems.
 
 ### Open Source
 
 Building infrastructure packages for the Laravel and TypeScript ecosystems.
 
-- [Laravel Membership](https://github.com/vimatech-io/laravel-membership) · Polymorphic memberships for Laravel
+- [Laravel Membership](https://github.com/vimatech-io/laravel-membership) · Polymorphic memberships for Laravel: who belongs to what, and with which role
 - [Laravel Invitations](https://github.com/vimatech-io/laravel-invitations) · Generic email-based invitation system for Laravel
-- [Laravel Secure Fields](https://github.com/vimatech-io/laravel-secure-fields) · Modern encrypted Eloquent fields for Laravel
+- [Laravel Secure Fields](https://github.com/vimatech-io/laravel-secure-fields) · Encrypted Eloquent fields with searchable blind indexes and key rotation
 - [Laravel Document Numbering](https://github.com/vimatech-io/laravel-document-numbering) · Sequential, gap-free, concurrency-safe document numbering (invoices, quotes, credit notes)
 - [Laravel Integrations](https://github.com/vimatech-io/laravel-integrations) · Config-driven ports & adapters foundation for external providers
 - [Laravel E-Invoicing](https://github.com/vimatech-io/laravel-einvoicing) · Native Peppol BIS 3.0 / EN 16931 e-invoice generation & dispatch
