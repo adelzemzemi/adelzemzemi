@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://adelzemzemi.com"><img src="./banner.png" width="100%" alt="Adel Zemzemi: new features shipped, security reviewed, your Laravel SaaS solid. Book a 30-minute call at adelzemzemi.com" /></a>
+  <a href="https://adelzemzemi.com"><img src="./banner-2026-10.png" width="100%" alt="Adel Zemzemi: new features shipped, security reviewed, your Laravel SaaS solid. Book a 30-minute call at adelzemzemi.com" /></a>
 </p>
 
 # Adel Zemzemi
