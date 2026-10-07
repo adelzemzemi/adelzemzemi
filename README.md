@@ -33,7 +33,7 @@ Laravel packages extracted from my own products, published on Packagist under [v
 ## Products
 
 - [MakeResume](https://makeresume.io) · SaaS resume builder, live. Laravel, Vue, Inertia, Paddle, AWS. Designed, built and run alone.
-- [Rendevo](https://rendevo.com) · Booking SaaS that qualifies leads first: prospects answer your questions, and only those who match your rules can book. Live. Laravel API, Nuxt, Astro, Paddle, Stripe Connect, Google and Outlook calendars. Designed, built and run alone.
+- [Rendevo](https://rendevo.com) · Booking SaaS that qualifies leads first: prospects answer your questions, and only those who match your rules can book. Live. Laravel API, Nuxt, Astro, Paddle, Google and Outlook calendars. Designed, built and run alone.
 
 ## Stack
 
