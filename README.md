@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://adelzemzemi.com"><img src="./banner-2026-10.png" width="100%" alt="Adel Zemzemi: new features shipped, security reviewed, your Laravel SaaS solid. Book a 30-minute call at adelzemzemi.com" /></a>
+  <a href="https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=banner"><img src="./banner-2026-10.png" width="100%" alt="Adel Zemzemi: new features shipped, security reviewed, your Laravel SaaS solid. Book a 30-minute call at adelzemzemi.com" /></a>
 </p>
 
 # Adel Zemzemi
@@ -10,11 +10,11 @@ Near Paris, France · Remote, written-first.
 
 ## What I do for your Laravel SaaS
 
-- **New features shipped, or the audit findings fixed.** Implementation Sprints of 5 or 10 days: scoped in writing, merged, documented.
-- **Security and code, audited.** The [Laravel Code Audit](https://adelzemzemi.com/laravel-code-audit/): every risk ranked by severity with its fix, a 30/60/90-day plan, a 60-minute debrief. 5 business days.
+- **New features shipped, AI included, or the audit findings fixed.** Implementation Sprints of 5 or 10 days: scoped in writing, merged, documented.
+- **Security and code, audited.** The [Laravel Code Audit](https://adelzemzemi.com/laravel-code-audit/?utm_source=github&utm_medium=profile&utm_content=audit): every risk ranked by severity with its fix, a 30/60/90-day plan, a 60-minute debrief. 5 business days.
 - **A senior Laravel lead, every month.** Code reviews, architecture decisions and features, on a Fractional Laravel Lead plan.
 
-**[Book a 30-minute call →](https://adelzemzemi.com)**
+**[Book a 30-minute call →](https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=cta)**
 
 ## Open source
 
@@ -41,4 +41,4 @@ Laravel packages extracted from my own products, published on Packagist under [v
 
 ## Contact
 
-[adelzemzemi.com](https://adelzemzemi.com) · [LinkedIn](https://www.linkedin.com/in/adel-zemzemi/) · [hello@adelzemzemi.com](mailto:hello@adelzemzemi.com)
+[adelzemzemi.com](https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=contact) · [LinkedIn](https://www.linkedin.com/in/adel-zemzemi/) · [hello@adelzemzemi.com](mailto:hello@adelzemzemi.com)
