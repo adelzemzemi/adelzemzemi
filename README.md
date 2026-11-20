@@ -28,7 +28,11 @@ Laravel packages extracted from my own products, published on Packagist under [v
 - [Laravel E-Invoicing](https://github.com/vimatech-io/laravel-einvoicing) · Peppol BIS 3.0 / EN 16931 e-invoice generation and dispatch
 - [Laravel Integrations](https://github.com/vimatech-io/laravel-integrations) · ports and adapters for external providers, normalized webhooks
 - [Laravel Audit Log](https://github.com/vimatech-io/laravel-audit-log) · append-only, tenant-aware audit log
-- [CryptoBox](https://github.com/adelzemzemi/CryptoBox) · zero-dependency AES-256-GCM encryption for JavaScript and TypeScript · [npm](https://www.npmjs.com/package/@azemzemi/cryptobox)
+- [CryptoBox](https://github.com/adelzemzemi/CryptoBox) · password-based encryption for browser storage and Node.js, AES-256-GCM on the Web Crypto API, zero dependencies · [npm](https://www.npmjs.com/package/@azemzemi/cryptobox) · [demo](https://adelzemzemi.github.io/CryptoBox/)
+
+## Writing
+
+- [Your encrypted localStorage values can be swapped](https://adelzemzemi.github.io/CryptoBox/swapped-ciphertexts/) · the gap I found in my own encryption library, and how AES-GCM closes it without storing an extra byte
 
 ## Products
 
@@ -41,4 +45,4 @@ Laravel packages extracted from my own products, published on Packagist under [v
 
 ## Contact
 
-[adelzemzemi.com](https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=contact) · [LinkedIn](https://www.linkedin.com/in/adel-zemzemi/) · [hello@adelzemzemi.com](mailto:hello@adelzemzemi.com)
+[adelzemzemi.com](https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=contact) · [LinkedIn](https://www.linkedin.com/in/adel-zemzemi/) · [X](https://x.com/adelzemzemi) · [dev.to](https://dev.to/adelzemzemi) · [hello@adelzemzemi.com](mailto:hello@adelzemzemi.com)
