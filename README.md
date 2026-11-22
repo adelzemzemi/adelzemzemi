@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=banner"><img src="./banner-2026-11.png" width="100%" alt="Adel Zemzemi, Forward Deployed Engineer for Laravel SaaS: I join your team to build, fix and ship in production. Book a 30-minute call at adelzemzemi.com" /></a>
+  <a href="https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=banner"><img src="./banner-2026-11b.png" width="100%" alt="Adel Zemzemi, Senior Laravel Consultant for SaaS: I join your team to build, fix and ship in production. Book a 30-minute call at adelzemzemi.com" /></a>
 </p>
 
 # Adel Zemzemi
 
-Forward Deployed Engineer for Laravel SaaS: I join your team to build, fix and ship in production. Laravel, PHP, Vue, Nuxt, TypeScript, AWS. Founder of [Vimatech Ltd](https://vimatech.io), where I build and run my own products.
+Senior Laravel Consultant for SaaS: I fix production bugs, ship features and integrate AI. Laravel, PHP, Vue, Nuxt, TypeScript, AWS. Founder of [Vimatech Ltd](https://vimatech.io), where I build and run my own products.
 
 Near Paris, France · Remote, written-first.
 
