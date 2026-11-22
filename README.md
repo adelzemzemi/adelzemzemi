@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=banner"><img src="./banner-2026-10.png" width="100%" alt="Adel Zemzemi: new features shipped, security reviewed, your Laravel SaaS solid. Book a 30-minute call at adelzemzemi.com" /></a>
+  <a href="https://adelzemzemi.com/?utm_source=github&utm_medium=profile&utm_content=banner"><img src="./banner-2026-11.png" width="100%" alt="Adel Zemzemi, Forward Deployed Engineer for Laravel SaaS: I join your team to build, fix and ship in production. Book a 30-minute call at adelzemzemi.com" /></a>
 </p>
 
 # Adel Zemzemi
