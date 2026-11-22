@@ -4,7 +4,7 @@
 
 # Adel Zemzemi
 
-I build SaaS, scale it, and run it in production. Laravel SaaS architect and engineer: Laravel, PHP, Vue, Nuxt, TypeScript, AWS. Founder of [Vimatech Ltd](https://vimatech.io), where I build and run my own products.
+Forward Deployed Engineer for Laravel SaaS: I join your team to build, fix and ship in production. Laravel, PHP, Vue, Nuxt, TypeScript, AWS. Founder of [Vimatech Ltd](https://vimatech.io), where I build and run my own products.
 
 Near Paris, France · Remote, written-first.
 
